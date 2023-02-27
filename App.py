@@ -1,4 +1,4 @@
-import tika
+import tika-python
 from tika import parser
 import openai
 import streamlit as st
